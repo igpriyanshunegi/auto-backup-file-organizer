@@ -118,6 +118,37 @@ SUMMARY
 ------------------------------------------------------------
 
 Proceed with actual organizing? (y/n): y
+
+============================================================
+Organizing folder: C:\Users\user1\PycharmProjects\Auto backup organizer
+Mode: LIVE
+============================================================
+
+  [MOVED] auto_backup_organizer.py  -->  Scripts/
+  [SKIPPED] organizer_log_20260618_082523.log ([WinError 32] The process cannot access the file because it is being used by another process: 'C:\\Users\\user1\\PycharmProjects\\Auto backup organizer\\organizer_log_20260618_082523.log')
+  [MOVED] photo1.png  -->  Images/
+  [MOVED] photo2.png  -->  Images/
+  [MOVED] sample1.pdf  -->  Documents/
+  [MOVED] sample2.pdf  -->  Documents/
+
+------------------------------------------------------------
+SUMMARY
+------------------------------------------------------------
+  Scripts     : 1 file(s)
+  Images      : 2 file(s)
+  Documents   : 2 file(s)
+
+  Total moved   : 5
+  Total skipped : 1
+------------------------------------------------------------
+
+
+============================================================
+  Task complete. Check the log file for full details.
+============================================================
+
+
+Process finished with exit code 0
 ```
 
 ---
