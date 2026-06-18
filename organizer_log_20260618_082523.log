@@ -1,0 +1,46 @@
+2026-06-18 08:25:53,084 | INFO | 
+============================================================
+2026-06-18 08:25:53,084 | INFO | Organizing folder: C:\Users\user1\PycharmProjects\Auto backup organizer
+2026-06-18 08:25:53,084 | INFO | Mode: DRY RUN (preview only)
+2026-06-18 08:25:53,085 | INFO | ============================================================
+
+2026-06-18 08:25:53,086 | INFO |   [PREVIEW] Would move: auto_backup_organizer.py  -->  Scripts/
+2026-06-18 08:25:53,087 | INFO |   [PREVIEW] Would move: organizer_log_20260618_082523.log  -->  Others/
+2026-06-18 08:25:53,098 | INFO |   [PREVIEW] Would move: photo1.png  -->  Images/
+2026-06-18 08:25:53,099 | INFO |   [PREVIEW] Would move: photo2.png  -->  Images/
+2026-06-18 08:25:53,099 | INFO |   [PREVIEW] Would move: sample1.pdf  -->  Documents/
+2026-06-18 08:25:53,099 | INFO |   [PREVIEW] Would move: sample2.pdf  -->  Documents/
+2026-06-18 08:25:53,099 | INFO | 
+------------------------------------------------------------
+2026-06-18 08:25:53,099 | INFO | SUMMARY
+2026-06-18 08:25:53,100 | INFO | ------------------------------------------------------------
+2026-06-18 08:25:53,100 | INFO |   Scripts     : 1 file(s)
+2026-06-18 08:25:53,100 | INFO |   Others      : 1 file(s)
+2026-06-18 08:25:53,100 | INFO |   Images      : 2 file(s)
+2026-06-18 08:25:53,100 | INFO |   Documents   : 2 file(s)
+2026-06-18 08:25:53,100 | INFO | ------------------------------------------------------------
+
+2026-06-18 08:27:05,583 | INFO | 
+============================================================
+2026-06-18 08:27:05,584 | INFO | Organizing folder: C:\Users\user1\PycharmProjects\Auto backup organizer
+2026-06-18 08:27:05,584 | INFO | Mode: LIVE
+2026-06-18 08:27:05,584 | INFO | ============================================================
+
+2026-06-18 08:27:05,587 | INFO |   [MOVED] auto_backup_organizer.py  -->  Scripts/
+2026-06-18 08:27:05,593 | WARNING |   [SKIPPED] organizer_log_20260618_082523.log ([WinError 32] The process cannot access the file because it is being used by another process: 'C:\\Users\\igpri\\PycharmProjects\\Auto backup organizer\\organizer_log_20260618_082523.log')
+2026-06-18 08:27:05,595 | INFO |   [MOVED] photo1.png  -->  Images/
+2026-06-18 08:27:05,597 | INFO |   [MOVED] photo2.png  -->  Images/
+2026-06-18 08:27:05,599 | INFO |   [MOVED] sample1.pdf  -->  Documents/
+2026-06-18 08:27:05,601 | INFO |   [MOVED] sample2.pdf  -->  Documents/
+2026-06-18 08:27:05,601 | INFO | 
+------------------------------------------------------------
+2026-06-18 08:27:05,601 | INFO | SUMMARY
+2026-06-18 08:27:05,601 | INFO | ------------------------------------------------------------
+2026-06-18 08:27:05,601 | INFO |   Scripts     : 1 file(s)
+2026-06-18 08:27:05,601 | INFO |   Images      : 2 file(s)
+2026-06-18 08:27:05,602 | INFO |   Documents   : 2 file(s)
+2026-06-18 08:27:05,602 | INFO | 
+  Total moved   : 5
+2026-06-18 08:27:05,602 | INFO |   Total skipped : 1
+2026-06-18 08:27:05,602 | INFO | ------------------------------------------------------------
+
